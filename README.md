@@ -1,0 +1,2 @@
+# configuration
+Neovim / TMUX configuration
