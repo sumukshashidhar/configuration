@@ -1,0 +1,23 @@
+set showmatch
+set expandtab 
+set autoindent
+set ttyfast
+set cursorline
+set number
+set ruler
+set shiftwidth=4
+set softtabstop=4
+set tabstop=4
+set clipboard=unnamedplus
+set mouse=a
+set wildmode=longest,list
+
+
+
+
+filetype plugin on
+syntax on
+
+
+
+" set noswapfile
